@@ -40,5 +40,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/Ezure-HARUNA/react-graphql-lesson.git",
+  "author": "Ezure-HARUNA <haruna.e@80and.co>",
+  "license": "MIT"
 }
